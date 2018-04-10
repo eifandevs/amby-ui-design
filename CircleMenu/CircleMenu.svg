@@ -26,11 +26,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="111.0712"
-     inkscape:cy="1220.2284"
+     inkscape:zoom="1.4"
+     inkscape:cx="208.36093"
+     inkscape:cy="1221.4539"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4630"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="791"
@@ -505,7 +505,7 @@
        inkscape:export-ydpi="90.000008"
        inkscape:export-xdpi="90.000008"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
-       transform="translate(-14.620024,-452.43151)"
+       transform="translate(-46.762881,-453.86008)"
        id="g4565">
       <g
          id="g4599"
@@ -514,8 +514,7 @@
          inkscape:export-ydpi="135.00002">
         <g
            transform="translate(32.008008,440.26881)"
-           id="g4554"
-           style="">
+           id="g4554">
           <g
              id="g4538">
             <ellipse
@@ -596,6 +595,69 @@
                    width="128"
                    id="rect4587"
                    style="opacity:0;fill:#782121" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4628"
+       transform="translate(260.37997,-470.28865)"
+       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-ydpi="90.000008">
+      <g
+         inkscape:export-ydpi="135.00002"
+         inkscape:export-xdpi="135.00002"
+         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-menu/circlemenu-menu@3x.png"
+         id="g4630">
+        <g
+           id="g4665"
+           transform="translate(-105,4.2857143)"
+           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-search/circlemenu-search@3x.png"
+           inkscape:export-xdpi="135"
+           inkscape:export-ydpi="135">
+          <g
+             transform="translate(-186.81356,441.85989)"
+             id="g4624">
+            <circle
+               style="opacity:1;fill:none;stroke:#ffffff;stroke-width:8.14958668;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path4616"
+               cx="309.32538"
+               cy="-218.39178"
+               r="22.925207" />
+            <path
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:9;stroke-miterlimit:4;stroke-dasharray:none"
+               d="m 319.65785,-201.86565 c 1.63843,-1.19518 4.27188,-3.09214 5.49784,-1.24109 l 18.46064,27.87308 c 1.22596,1.85105 1.04279,4.1999 -0.59564,5.39509 -1.63843,1.19519 -3.85448,0.58812 -5.31927,-1.08033 l -22.74635,-25.9088 c -1.4648,-1.66845 3.06435,-3.84276 4.70278,-5.03795 z"
+               id="rect4621"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="sssssss" />
+          </g>
+          <g
+             transform="translate(-7.1846365,361.65245)"
+             id="g4652"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-add/circlemenu-add@2x.png"
+             inkscape:export-xdpi="90.000008"
+             inkscape:export-ydpi="90.000008">
+            <g
+               transform="translate(-4.545686,264.54248)"
+               id="g4654"
+               inkscape:export-xdpi="135.00002"
+               inkscape:export-ydpi="135.00002">
+              <g
+                 id="g4656">
+                <g
+                   id="g4658">
+                  <rect
+                     ry="0"
+                     y="-455.63788"
+                     x="74.285713"
+                     height="128"
+                     width="128"
+                     id="rect4660"
+                     style="opacity:0;fill:#782121" />
+                </g>
               </g>
             </g>
           </g>
