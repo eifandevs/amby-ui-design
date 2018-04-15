@@ -26,11 +26,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="208.36093"
-     inkscape:cy="1221.4539"
+     inkscape:zoom="1.979899"
+     inkscape:cx="227.96926"
+     inkscape:cy="1312.4513"
      inkscape:document-units="px"
-     inkscape:current-layer="g4630"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="791"
@@ -57,19 +57,10 @@
      id="layer1"
      transform="translate(0,995.63784)">
     <image
-       y="-1034.5607"
-       x="1849.3823"
+       y="-367.85999"
+       x="649.32111"
        id="image3611"
        xlink:href="data:image/png;base64,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 SFX+B6ZJULGhAwuAAAAAAElFTkSuQmCC "
-       preserveAspectRatio="none"
-       height="274.43945"
-       width="248.06914"
-       style="fill:#d45500" />
-    <image
-       y="-195.27327"
-       x="752.44745"
-       id="image3655"
-       xlink:href="data:image/png;base64,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 "
        preserveAspectRatio="none"
        height="274.43945"
        width="248.06914"
@@ -603,7 +594,7 @@
     </g>
     <g
        id="g4628"
-       transform="translate(260.37997,-470.28865)"
+       transform="translate(191.18452,-471.2988)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
        inkscape:export-xdpi="90.000008"
        inkscape:export-ydpi="90.000008">
@@ -657,6 +648,98 @@
                      width="128"
                      id="rect4660"
                      style="opacity:0;fill:#782121" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4304"
+       transform="translate(-23.738585,-1.0101525)"
+       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-form/circlemenu-form@3x.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <g
+         transform="matrix(0.78199791,0.64555902,-0.66546217,0.8061076,-32.510685,-288.08857)"
+         id="g4239">
+        <rect
+           style="opacity:1;fill:none;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect3433"
+           width="22.039597"
+           height="54.364475"
+           x="358.69604"
+           y="-261.24933"
+           ry="2.5253813" />
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect4235"
+           width="22.925852"
+           height="7.1428571"
+           x="357.97971"
+           y="-253.50003"
+           ry="3.5714285" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:none;stroke:#ffffff;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path4237"
+           sodipodi:sides="3"
+           sodipodi:cx="361.63461"
+           sodipodi:cy="-190.63055"
+           sodipodi:r1="15.016997"
+           sodipodi:r2="7.3583283"
+           sodipodi:arg1="0.73781506"
+           sodipodi:arg2="1.7850126"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.02"
+           inkscape:randomized="0"
+           d="m 372.74629,-180.52903 c -0.17497,0.19247 -12.42175,-2.85609 -12.67592,-2.91138 -0.25418,-0.0553 -12.66058,-2.37014 -12.73977,-2.61791 -0.0792,-0.24777 8.68432,-9.32951 8.85929,-9.52198 0.17498,-0.19247 8.38289,-9.77931 8.63706,-9.72401 0.25418,0.0553 3.73743,12.18559 3.81663,12.43336 0.0792,0.24777 4.27769,12.14945 4.10271,12.34192 z"
+           inkscape:transform-center-x="0.81088338"
+           inkscape:transform-center-y="4.9110518"
+           transform="matrix(0.58935191,0.66957237,-0.6353144,0.62113147,35.674223,-325.1594)" />
+      </g>
+      <g
+         id="g4282"
+         transform="translate(388.52675,-472.30895)"
+         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
+         inkscape:export-xdpi="90.000008"
+         inkscape:export-ydpi="90.000008">
+        <g
+           inkscape:export-ydpi="135.00002"
+           inkscape:export-xdpi="135.00002"
+           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-menu/circlemenu-menu@3x.png"
+           id="g4284">
+          <g
+             id="g4286"
+             transform="translate(-105,4.2857143)"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-search/circlemenu-search@3x.png"
+             inkscape:export-xdpi="135"
+             inkscape:export-ydpi="135">
+            <g
+               transform="translate(-7.1846365,361.65245)"
+               id="g4294"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-add/circlemenu-add@2x.png"
+               inkscape:export-xdpi="90.000008"
+               inkscape:export-ydpi="90.000008">
+              <g
+                 transform="translate(-4.545686,264.54248)"
+                 id="g4296"
+                 inkscape:export-xdpi="135.00002"
+                 inkscape:export-ydpi="135.00002">
+                <g
+                   id="g4298">
+                  <g
+                     id="g4300">
+                    <rect
+                       ry="0"
+                       y="-455.63788"
+                       x="74.285713"
+                       height="128"
+                       width="128"
+                       id="rect4302"
+                       style="opacity:0;fill:#782121" />
+                  </g>
                 </g>
               </g>
             </g>
