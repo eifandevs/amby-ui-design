@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
@@ -26,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="227.96926"
-     inkscape:cy="1312.4513"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="1317.7446"
+     inkscape:cy="1072.3936"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3445"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="791"
@@ -56,29 +55,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,995.63784)">
-    <image
-       y="-367.85999"
-       x="649.32111"
-       id="image3611"
-       xlink:href="data:image/png;base64,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 SFX+B6ZJULGhAwuAAAAAAElFTkSuQmCC "
-       preserveAspectRatio="none"
-       height="274.43945"
-       width="248.06914"
-       style="fill:#d45500" />
-    <image
-       y="-760.12122"
-       x="1601.3132"
-       id="image3666"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AABYlQAAWJUB2W030wAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAASwSURB VHic7dxPaB1VFMfx78/GGmsUG+zCP1RQW0WlRdpNJFULiroTYqvFjSLqxpVUReyuIEILCoqI1YWg WCvdqGiriAsNVUvwH/4rovVPVLQaU6rWJvG4mAg2JO/OvHfnvST9fSCL5J4597y8Q2bm3jcBMzMz MzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMz6wzlSBIRu4DTGoQ8LunJ krlWAk8lwtZL+qpBjk3AdWXmm2IU+BP4GfgU+Bh4S9JfTeQiIi4BtiXC1kn6upn8OXRlyrMCOL3B +BkVcvUAqxIxJybGzy6Ro6xDEfES8KCkjyoeW+a1dDdXVh7HdXLyOaIH2AAMRcSWiJhXv7N59WJq 1gVsBJ7odCE5uQGquzUiBjpdRC5ugOY80OkCcsl1ETjXjAJ7//d9F8WF6lLKXZQtj4iLJH1SR3Ht dKw2wOeSrpr6w4hYSHHB9whwciLHWsANMJ9IOgI8HRHjwDOJ8LPaUFLtfA0wve3AwUTMknYUUjc3 wDQkTQD7EmET7ailbm6AmY0lxg+0pYqauQFmdmZivOqy8KzkBphGRFxMcUs4kzHgjTaVUys3wBQR sZj0cu8Lkn5pRz11O1ZvA3sjYt2Uny0GVgLraby1PQLcV1dh7XasNsAyYEcTxx0CBiR9m7mejvEp oLz3gX5Jb3a6kJzcAGlfADcAqyV92OlicnMDpC0HbgMu6HQhdXADpAm4EhiMiCs6XEt2uRrgSGJ8 QYVcZS5MU/OljFNczY8Af5Q85lRgZ0Q0Wh+Yc3I1wGhifFGFXCeViPm9Qr7pDEnqnfzqodjY2QDs TxzXCzwbEVk+TT0b5GqA1BvS6L56qjK7bK02wFEkHZC0HVgDfJcI7weuzzl/J+VqgF8T48sq5ErF HpSU2qhpiqTvgQHgn0To5oiYF2souRrgg8T4qogoexq4vMW5WiJpL/BcIux8ilPGnJerAd5NjHdT 4s9mRJwH9LU4Vw6bSG8Hb5wP1wK5GuA90r+wzREx49NDEXE88CjpO4a3K9ZWmaT9wPOJsBXA1XXX Urcs5zFJIxGxE7ixQdhSinvpe4GX/3vebvJJmz6Kj1pflphqGHg1Q8llbAVuovHzk/cAu1qc56GI SH38bDojku5oce58IqIvyjscEV9GxGcRMVrhuPtL1rItkeedknl2l6hpdYPj11R4bVX9UPa9aSTb SqCkPcArJcNPAM6lWF49peQxPwKPNVFaK7aWiLm79ipqlHsp+HYgS2dOMQHcLGmkhtwzkvQ66buO gYg4px311CFrA0gaBq4FfsqYdozizX8tY84qtiTGFwB3taOQOmTfDJp8hn41sDtDun3AWkmphzTq tAP4JhFzS0RUWe2cNWrZDZQ0LOka4FLgRYrNlyqGKO4oLpQ0mLu+KiSNAw8nwhYBd7ahnOzaspAR ET0Ut3r9FP+9o5fiM3hdFDtyv1GcNvYAg5JaOoVExBIaP9v39+Tpqmy+haQfBTss6ajrn4joptp/ R6liQlLqL5OZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZnNWv8C OYcBXkcc8vIAAAAASUVORK5CYII= "
-       preserveAspectRatio="none"
-       height="274.43945"
-       width="248.06914"
-       style="fill:#d45500" />
     <g
        id="g4485"
        inkscape:export-xdpi="135.00002"
        inkscape:export-ydpi="135.00002"
-       transform="translate(0,1.4285714)">
+       transform="translate(705.71428,370)">
       <g
          id="g3349">
         <g
@@ -120,7 +101,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        id="g3350"
-       transform="matrix(-1,0,0,1,298,-147.14286)"
+       transform="matrix(-1,0,0,1,1003.7143,221.42857)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-historyforward/circlemenu-historyforward@2x.png">
       <g
          id="g3352">
@@ -164,7 +145,7 @@
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-add/circlemenu-add@2x.png"
        inkscape:export-xdpi="90.000008"
        inkscape:export-ydpi="90.000008"
-       transform="translate(-12.857143,-130)">
+       transform="translate(692.85714,238.57143)">
       <g
          id="g4459"
          transform="translate(9.2857142,314.28571)">
@@ -221,7 +202,7 @@
     </g>
     <g
        id="g4310"
-       transform="translate(361.15672,-221.10658)"
+       transform="translate(1066.871,147.46485)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
        inkscape:export-xdpi="90.000008"
        inkscape:export-ydpi="90.000008">
@@ -315,7 +296,7 @@
     </g>
     <g
        id="g4397"
-       transform="translate(-58.588846,-57.578694)"
+       transform="translate(647.12544,310.99273)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
        inkscape:export-xdpi="90.000008"
        inkscape:export-ydpi="90.000008">
@@ -411,7 +392,7 @@
     </g>
     <g
        id="g4511"
-       transform="translate(-40.714285,-17.142857)"
+       transform="translate(665,351.42857)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-copy/circlemenu-copy@2x.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -496,7 +477,7 @@
        inkscape:export-ydpi="90.000008"
        inkscape:export-xdpi="90.000008"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
-       transform="translate(-46.762881,-453.86008)"
+       transform="translate(658.9514,-85.288649)"
        id="g4565">
       <g
          id="g4599"
@@ -594,7 +575,7 @@
     </g>
     <g
        id="g4628"
-       transform="translate(191.18452,-471.2988)"
+       transform="translate(896.8988,-102.72737)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-close/circlemenu-close@2x.png"
        inkscape:export-xdpi="90.000008"
        inkscape:export-ydpi="90.000008">
@@ -657,7 +638,7 @@
     </g>
     <g
        id="g4304"
-       transform="translate(-23.738585,-1.0101525)"
+       transform="translate(681.9757,367.56127)"
        inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-form/circlemenu-form@3x.png"
        inkscape:export-xdpi="135"
        inkscape:export-ydpi="135">
@@ -742,6 +723,94 @@
                   </g>
                 </g>
               </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90.000008"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
+       transform="translate(905.72448,298.8709)"
+       id="g3445">
+      <g
+         id="g3447"
+         transform="matrix(0,0.26936912,-0.24757893,0,88.48107,232.98596)">
+        <g
+           id="g3449" />
+      </g>
+      <g
+         id="g3502"
+         transform="translate(-41.416254,-76.771593)"
+         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-scrollup/circlemenu-scrollup@3x.png"
+         inkscape:export-xdpi="135"
+         inkscape:export-ydpi="135">
+        <g
+           transform="matrix(0,0.26936912,-0.24757893,0,84.94555,241.05326)"
+           id="g3487">
+          <g
+             transform="matrix(1.0305647,0,0,1.0434534,-3.9548069,-247.82964)"
+             id="g3451">
+            <rect
+               style="fill:#ffffff"
+               id="rect3453"
+               width="27.983841"
+               height="168.05157"
+               x="-1068.3193"
+               y="2033.1018"
+               ry="14.004295"
+               transform="matrix(0.72016709,-0.69380066,-0.67817556,-0.73489993,0,0)" />
+            <rect
+               transform="matrix(0.72016709,0.69380066,-0.67817556,0.73489993,0,0)"
+               ry="14.004295"
+               y="770.88354"
+               x="-2256.9402"
+               height="168.05157"
+               width="27.983841"
+               id="rect3455"
+               style="fill:#ffffff" />
+          </g>
+          <g
+             id="g3481"
+             transform="matrix(1.0305647,0,0,1.0434534,112.2973,-247.82964)">
+            <rect
+               transform="matrix(0.72016709,-0.69380066,-0.67817556,-0.73489993,0,0)"
+               ry="14.004295"
+               y="2033.1018"
+               x="-1068.3193"
+               height="168.05157"
+               width="27.983841"
+               id="rect3483"
+               style="fill:#ffffff" />
+            <rect
+               style="fill:#ffffff"
+               id="rect3485"
+               width="27.983841"
+               height="168.05157"
+               x="-2256.9402"
+               y="770.88354"
+               ry="14.004295"
+               transform="matrix(0.72016709,0.69380066,-0.67817556,0.73489993,0,0)" />
+          </g>
+        </g>
+        <g
+           id="g3467"
+           inkscape:export-xdpi="135.00002"
+           inkscape:export-ydpi="135.00002"
+           transform="translate(234.35539,37.924977)">
+          <g
+             id="g3469">
+            <g
+               id="g3471">
+              <rect
+                 ry="0"
+                 y="-455.63788"
+                 x="74.285713"
+                 height="128"
+                 width="128"
+                 id="rect3473"
+                 style="opacity:0;fill:#782121" />
             </g>
           </g>
         </g>
