@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="2048"
+   viewBox="0 0 2048 2048"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#787878"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16990137"
+     inkscape:cx="1085.0562"
+     inkscape:cy="1024"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4196"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="791"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     borderlayer="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,995.63784)">
+    <g
+       transform="matrix(0,1,-1,0,-280.49502,168.64783)"
+       inkscape:export-ydpi="135.00002"
+       inkscape:export-xdpi="135.00002"
+       id="g4323">
+      <g
+         id="g4325">
+        <g
+           id="g4327">
+          <rect
+             style="opacity:0;fill:#782121"
+             id="rect4329"
+             width="128"
+             height="128"
+             x="74.285713"
+             y="-455.63788"
+             ry="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:export-ydpi="90.000008"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
+       transform="translate(905.72448,298.8709)"
+       id="g3445">
+      <g
+         id="g3447"
+         transform="matrix(0,0.26936912,-0.24757893,0,88.48107,232.98596)">
+        <g
+           id="g3449" />
+      </g>
+      <g
+         id="g4196"
+         transform="translate(-816.40886,111.64566)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <text
+           transform="scale(0.98328572,1.0169984)"
+           sodipodi:linespacing="80.000001%"
+           id="text3390"
+           y="-165.4679"
+           x="806.07239"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:618.06530762px;line-height:80.00000119%;font-family:Phosphate;-inkscape-font-specification:'Phosphate, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#654ea3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-xdpi="55.227264"
+           inkscape:export-ydpi="55.227264"><tspan
+             y="-165.4679"
+             x="806.07239"
+             id="tspan3392"
+             sodipodi:role="line">Q</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="translate(310.51448,62.800686)"
+         id="g4201" />
+    </g>
+  </g>
+  <style
+     id="style4338"
+     type="text/css">
+	.st0{fill:#4B4B4B;}
+</style>
+</svg>
