@@ -25,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="1317.7446"
-     inkscape:cy="1072.3936"
+     inkscape:zoom="1.4"
+     inkscape:cx="1146.316"
+     inkscape:cy="1026.9367"
      inkscape:document-units="px"
      inkscape:current-layer="g3445"
      showgrid="false"
@@ -742,7 +742,7 @@
       </g>
       <g
          id="g3502"
-         transform="translate(-41.416254,-76.771593)"
+         transform="translate(-106.06602,-108.08632)"
          inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-scrollup/circlemenu-scrollup@3x.png"
          inkscape:export-xdpi="135"
          inkscape:export-ydpi="135">
@@ -812,6 +812,129 @@
                  id="rect3473"
                  style="opacity:0;fill:#782121" />
             </g>
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-home/circlemenu-home@2x.png"
+         transform="translate(78.314004,-7.1972259)"
+         id="g3515">
+        <g
+           id="g3517"
+           transform="matrix(0,0.26936912,-0.24757893,0,84.94555,241.05326)"
+           style="fill:#ffffff">
+          <g
+             id="g3519"
+             transform="matrix(1.0305647,0,0,1.0434534,-3.9548069,-247.82964)"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           id="g3632"
+           transform="translate(-57.857142,79.999999)">
+          <g
+             id="g3531"
+             inkscape:export-xdpi="135.00002"
+             inkscape:export-ydpi="135.00002"
+             transform="translate(234.35539,37.924977)">
+            <g
+               id="g3533">
+              <g
+                 id="g3535">
+                <rect
+                   ry="0"
+                   y="-455.63788"
+                   x="74.285713"
+                   height="128"
+                   width="128"
+                   id="rect3537"
+                   style="opacity:0;fill:#782121" />
+              </g>
+            </g>
+          </g>
+          <g
+             transform="matrix(1.0824507,0,0,1.1624857,-30.724536,59.699823)"
+             id="g3592">
+            <rect
+               transform="matrix(0.17923443,0.19992005,0.1898519,-0.1882631,146.30296,239.98794)"
+               ry="14.004295"
+               y="2033.1018"
+               x="-1068.3193"
+               height="168.05157"
+               width="27.983841"
+               id="rect3521"
+               style="fill:#ffffff" />
+            <rect
+               style="fill:#ffffff"
+               id="rect3523"
+               width="27.983841"
+               height="168.05157"
+               x="-2256.9402"
+               y="770.88354"
+               ry="14.004295"
+               transform="matrix(-0.17923443,0.19992005,-0.1898519,-0.1882631,146.30296,239.98794)" />
+            <path
+               sodipodi:type="star"
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path3584"
+               sodipodi:sides="3"
+               sodipodi:cx="1313.9286"
+               sodipodi:cy="986.21429"
+               sodipodi:r1="12.985471"
+               sodipodi:r2="7.2718635"
+               sodipodi:arg1="0.54985318"
+               sodipodi:arg2="1.5970507"
+               inkscape:flatsided="false"
+               inkscape:rounded="0.12"
+               inkscape:randomized="0"
+               d="m 1325,993.00001 c -0.7069,1.15333 -9.91,0.51915 -11.2623,0.48364 -1.3523,-0.0355 -10.5761,0.11477 -11.2214,-1.07407 -0.6454,-1.18885 4.5054,-8.84195 5.2123,-9.99529 0.7069,-1.15333 5.1886,-9.2165 6.5409,-9.18099 1.3522,0.0355 5.4046,8.32279 6.05,9.51164 0.6454,1.18884 5.3874,9.10173 4.6805,10.25507 z"
+               transform="matrix(1.6791835,0,0,1.0523767,-1833.291,-1404.7148)"
+               inkscape:transform-center-x="0.27286895"
+               inkscape:transform-center-y="-2.897201" />
+            <ellipse
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               id="path3586"
+               cx="921.8941"
+               cy="-2097.3499"
+               transform="matrix(0.25833708,0,0,0.27760231,146.30296,239.98794)"
+               rx="11.612735"
+               ry="10.806827" />
+            <rect
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect3576"
+               width="56.874996"
+               height="7.1428571"
+               x="343.99728"
+               y="-360.47226"
+               ry="3.5714285" />
+            <rect
+               ry="3.5714285"
+               y="-355.27399"
+               x="-359.94357"
+               height="7.1428571"
+               width="35"
+               id="rect3578"
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               transform="matrix(0,1,-1,0,0,0)" />
+            <rect
+               transform="matrix(0,1,-1,0,0,0)"
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect3580"
+               width="35"
+               height="7.1428571"
+               x="-359.94357"
+               y="-396.88113"
+               ry="3.5714285" />
+            <rect
+               transform="scale(-1,1)"
+               style="opacity:1;fill:#ffffff;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+               id="rect3582"
+               width="48.005714"
+               height="7.1428571"
+               x="-396.09787"
+               y="-331.99915"
+               ry="3.5714285" />
           </g>
         </g>
       </g>
