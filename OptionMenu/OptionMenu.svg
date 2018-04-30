@@ -25,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1681.5425"
-     inkscape:cy="1417.3481"
+     inkscape:zoom="0.49202704"
+     inkscape:cx="1576.7157"
+     inkscape:cy="883.3557"
      inkscape:document-units="px"
-     inkscape:current-layer="g4248"
+     inkscape:current-layer="g3749"
      showgrid="false"
      inkscape:window-width="1330"
      inkscape:window-height="788"
@@ -235,56 +235,6 @@
             </g>
           </g>
           <g
-             id="g3818"
-             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
-             inkscape:export-xdpi="67.5"
-             inkscape:export-ydpi="67.5"
-             transform="translate(1051.0456,458.74366)">
-            <g
-               inkscape:export-ydpi="67.500015"
-               inkscape:export-xdpi="67.500015"
-               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
-               id="g3820">
-              <g
-                 id="g3835"
-                 transform="translate(-11.613764,-249.69592)"
-                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
-                 inkscape:export-xdpi="67.500015"
-                 inkscape:export-ydpi="67.500015">
-                <g
-                   transform="matrix(0.34218916,0,0,0.3636268,2.49266,-1047.6358)"
-                   id="g3688"
-                   style="opacity:1;fill:#ffffff">
-                  <g
-                     style="fill:#ffffff"
-                     id="g3677">
-                    <path
-                       inkscape:connector-curvature="0"
-                       class="st0"
-                       d="m 509.106,193.516 c -7.876,-24.237 -30.293,-40.522 -55.778,-40.522 l -108.134,0 L 311.777,50.152 C 303.905,25.912 281.488,9.626 255.999,9.626 c -25.485,0 -47.902,16.286 -55.778,40.526 l -33.414,102.842 -108.133,0 c -25.489,0 -47.902,16.286 -55.778,40.522 -7.88,24.24 0.68,50.59 21.301,65.574 l 87.484,63.56 -33.414,102.845 c -5.879,18.09 -2.91,37.203 8.147,52.425 11.127,15.315 28.966,24.454 47.714,24.454 12.316,0 24.206,-3.91 34.387,-11.312 l 87.484,-63.563 87.484,63.563 c 10.185,7.402 22.075,11.312 34.391,11.312 18.748,0 36.586,-9.146 47.71,-24.454 11.061,-15.222 14.03,-34.334 8.15,-52.429 l -33.412,-102.841 87.48,-63.56 c 20.62,-14.985 29.18,-41.334 21.304,-65.574 z M 131.019,467.551 c -1.737,-0.233 -3.433,-0.642 -5.06,-1.241 l 0,0 c -3.455,-1.27 -6.602,-3.312 -9.181,-5.928 0,0 -0.007,-0.011 -0.015,-0.019 -5.127,-5.218 -7.974,-12.722 -6.414,-20.962 0.012,-0.068 0.03,-0.136 0.042,-0.203 0.199,-0.997 0.451,-2 0.778,-3.015 l 35.786,-110.13 c 3.218,-9.91 -0.309,-20.767 -8.737,-26.887 L 44.534,231.103 C 25.685,217.404 35.372,187.592 58.673,187.592 l 115.797,0 c 10.421,0 19.654,-6.706 22.872,-16.617 L 233.127,60.84 c 3.598,-11.075 13.237,-16.616 22.872,-16.616 9.639,0 19.274,5.541 22.876,16.616 l 35.782,110.134 c 3.222,9.91 12.454,16.617 22.875,16.617 l 115.797,0 c 23.3,0 32.988,29.812 14.138,43.511 l -93.683,68.063 c -8.429,6.12 -11.958,16.977 -8.737,26.887 l 35.782,110.13 c 0.331,1.015 0.582,2.018 0.782,3.015 0.011,0.067 0.026,0.135 0.041,0.203 1.557,8.225 -1.278,15.718 -6.39,20.935 -0.019,0.015 -0.03,0.034 -0.05,0.053 -3.789,3.846 -8.819,6.429 -14.229,7.162 -0.206,0.026 -0.41,0.053 -0.62,0.075 -0.824,0.09 -1.654,0.15 -2.489,0.15 -4.703,0 -9.564,-1.436 -14.053,-4.703 l -93.683,-68.066 c -4.214,-3.061 -9.177,-4.59 -14.139,-4.59 -4.958,0 -9.921,1.53 -14.135,4.59 l -93.683,68.066 c -4.489,3.263 -9.35,4.703 -14.053,4.703 -0.838,0 -1.666,-0.06 -2.493,-0.15 -0.206,-0.021 -0.413,-0.048 -0.616,-0.074 z"
-                       style="fill:#ffffff"
-                       id="path3679" />
-                  </g>
-                </g>
-                <g
-                   id="g3828"
-                   transform="translate(546.3063,-208.75981)"
-                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
-                   inkscape:export-xdpi="45"
-                   inkscape:export-ydpi="45">
-                  <rect
-                     style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                     id="rect3830"
-                     width="256"
-                     height="256"
-                     x="-584.21326"
-                     y="-873.78754"
-                     ry="0.096174292" />
-                </g>
-              </g>
-            </g>
-          </g>
-          <g
              id="g4188"
              inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
              inkscape:export-xdpi="67.5"
@@ -334,114 +284,111 @@
             </g>
           </g>
           <g
-             id="g4246"
-             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
+             transform="translate(1972.3225,798.56052)"
+             id="layer1-1"
+             inkscape:label="Layer 1"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
              inkscape:export-xdpi="67.5"
-             inkscape:export-ydpi="67.5"
-             transform="translate(717.63953,-639.26872)">
+             inkscape:export-ydpi="67.5">
             <g
-               inkscape:export-ydpi="67.500015"
-               inkscape:export-xdpi="67.500015"
-               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
-               id="g4248">
+               id="g3445-9"
+               transform="translate(905.72448,298.8709)"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
+               inkscape:export-xdpi="90.000008"
+               inkscape:export-ydpi="90.000008">
               <g
-                 id="g4272"
-                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                 transform="matrix(0,0.26936912,-0.24757893,0,88.48107,232.98596)"
+                 id="g3447-1">
+                <g
+                   id="g3449-2" />
+              </g>
+              <g
+                 transform="translate(-165.49613,551.65377)"
+                 id="g3483-6"
+                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-history/optionmenu-history@3x.png"
                  inkscape:export-xdpi="67.5"
                  inkscape:export-ydpi="67.5">
                 <g
-                   id="g4210"
-                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
-                   inkscape:export-xdpi="67.5"
-                   inkscape:export-ydpi="67.5"
-                   transform="translate(95.45692,437.97751)"
-                   style="">
+                   id="g3499-0">
                   <g
-                     inkscape:export-ydpi="67.500015"
-                     inkscape:export-xdpi="67.500015"
-                     inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
-                     id="g4212">
+                     transform="translate(-2790.8147,-1299.503)"
+                     id="g3706">
                     <g
-                       id="g4214"
-                       transform="translate(-11.613764,-249.69592)"
-                       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
-                       inkscape:export-xdpi="67.500015"
-                       inkscape:export-ydpi="67.500015">
+                       id="g3722">
                       <g
-                         id="g4236">
+                         inkscape:export-ydpi="33.750008"
+                         inkscape:export-xdpi="33.750008"
+                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite-selected/header-favorite-selected@3x.png"
+                         id="g3749">
                         <g
-                           style="opacity:1;fill:#ffffff"
-                           id="g4216"
-                           transform="matrix(0.34218916,0,0,0.3636268,40.779868,-1094.6247)">
+                           id="g3399"
+                           transform="translate(67.069485,42.680582)"
+                           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                           inkscape:export-xdpi="68.90625"
+                           inkscape:export-ydpi="68.90625">
+                          <path
+                             transform="matrix(0.52506227,0.34275693,-0.30785236,0.58459428,-81.807611,-620.96805)"
+                             inkscape:transform-center-y="-24.574011"
+                             inkscape:transform-center-x="-16.442674"
+                             d="m 834.99948,-1251.1124 c -5.45498,12.333 -78.1031,-1.7894 -89.76543,4.9819 -11.66232,6.7712 -35.41418,76.8643 -48.82924,75.4874 -13.41506,-1.3769 -22.43335,-74.8334 -32.47705,-83.8325 -10.04369,-8.9991 -84.04591,-9.9285 -86.88189,-23.1125 -2.83598,-13.1839 64.23853,-44.4602 69.69351,-56.7932 5.45498,-12.333 -16.52905,-83.0004 -4.86672,-89.7717 11.66233,-6.7712 62.13494,47.3555 75.55,48.7324 13.41506,1.3769 73.8304,-41.3686 83.8741,-32.3695 10.04369,8.9991 -25.83703,73.7275 -23.00104,86.9115 2.83598,13.1839 62.15874,57.4332 56.70376,69.7662 z"
+                             inkscape:randomized="0"
+                             inkscape:rounded="0.15"
+                             inkscape:flatsided="false"
+                             sodipodi:arg2="1.0447572"
+                             sodipodi:arg1="0.41643862"
+                             sodipodi:r2="69.526604"
+                             sodipodi:r1="136.32668"
+                             sodipodi:cy="-1306.2573"
+                             sodipodi:cx="710.32391"
+                             sodipodi:sides="5"
+                             id="path3708"
+                             style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:22.18475533;stroke-miterlimit:4;stroke-dasharray:none"
+                             sodipodi:type="star" />
                           <g
-                             id="g4218"
-                             style="fill:#ffffff">
-                            <path
-                               id="path4220"
-                               style="fill:#ffffff"
-                               d="m 509.106,193.516 c -7.876,-24.237 -30.293,-40.522 -55.778,-40.522 l -108.134,0 L 311.777,50.152 C 303.905,25.912 281.488,9.626 255.999,9.626 c -25.485,0 -47.902,16.286 -55.778,40.526 l -33.414,102.842 -108.133,0 c -25.489,0 -47.902,16.286 -55.778,40.522 -7.88,24.24 0.68,50.59 21.301,65.574 l 87.484,63.56 -33.414,102.845 c -5.879,18.09 -2.91,37.203 8.147,52.425 11.127,15.315 28.966,24.454 47.714,24.454 12.316,0 24.206,-3.91 34.387,-11.312 l 87.484,-63.563 87.484,63.563 c 10.185,7.402 22.075,11.312 34.391,11.312 18.748,0 36.586,-9.146 47.71,-24.454 11.061,-15.222 14.03,-34.334 8.15,-52.429 l -33.412,-102.841 87.48,-63.56 c 20.62,-14.985 29.18,-41.334 21.304,-65.574 z M 131.019,467.551 c -1.737,-0.233 -3.433,-0.642 -5.06,-1.241 l 0,0 c -3.455,-1.27 -6.602,-3.312 -9.181,-5.928 0,0 -0.007,-0.011 -0.015,-0.019 -5.127,-5.218 -7.974,-12.722 -6.414,-20.962 0.012,-0.068 0.03,-0.136 0.042,-0.203 0.199,-0.997 0.451,-2 0.778,-3.015 l 35.786,-110.13 c 3.218,-9.91 -0.309,-20.767 -8.737,-26.887 L 44.534,231.103 C 25.685,217.404 35.372,187.592 58.673,187.592 l 115.797,0 c 10.421,0 19.654,-6.706 22.872,-16.617 L 233.127,60.84 c 3.598,-11.075 13.237,-16.616 22.872,-16.616 9.639,0 19.274,5.541 22.876,16.616 l 35.782,110.134 c 3.222,9.91 12.454,16.617 22.875,16.617 l 115.797,0 c 23.3,0 32.988,29.812 14.138,43.511 l -93.683,68.063 c -8.429,6.12 -11.958,16.977 -8.737,26.887 l 35.782,110.13 c 0.331,1.015 0.582,2.018 0.782,3.015 0.011,0.067 0.026,0.135 0.041,0.203 1.557,8.225 -1.278,15.718 -6.39,20.935 -0.019,0.015 -0.03,0.034 -0.05,0.053 -3.789,3.846 -8.819,6.429 -14.229,7.162 -0.206,0.026 -0.41,0.053 -0.62,0.075 -0.824,0.09 -1.654,0.15 -2.489,0.15 -4.703,0 -9.564,-1.436 -14.053,-4.703 l -93.683,-68.066 c -4.214,-3.061 -9.177,-4.59 -14.139,-4.59 -4.958,0 -9.921,1.53 -14.135,4.59 l -93.683,68.066 c -4.489,3.263 -9.35,4.703 -14.053,4.703 -0.838,0 -1.666,-0.06 -2.493,-0.15 -0.206,-0.021 -0.413,-0.048 -0.616,-0.074 z"
-                               class="st0"
-                               inkscape:connector-curvature="0" />
+                             transform="translate(614.91707,62.720184)"
+                             inkscape:export-ydpi="45"
+                             inkscape:export-xdpi="45"
+                             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@2x.png"
+                             id="g3710">
+                            <g
+                               id="g3712"
+                               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
+                               inkscape:export-xdpi="67.500015"
+                               inkscape:export-ydpi="67.500015">
+                              <g
+                                 inkscape:export-ydpi="67.500015"
+                                 inkscape:export-xdpi="67.500015"
+                                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                                 transform="translate(-11.613764,-249.69592)"
+                                 id="g3714">
+                                <g
+                                   inkscape:export-ydpi="67.5"
+                                   inkscape:export-xdpi="67.5"
+                                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
+                                   id="g3716">
+                                <g
+                                   id="g3718"
+                                   transform="translate(546.3063,-208.75981)"
+                                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
+                                   inkscape:export-xdpi="45"
+                                   inkscape:export-ydpi="45">
+                                <rect
+                                   style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+                                   id="rect3720"
+                                   width="256"
+                                   height="256"
+                                   x="-584.21326"
+                                   y="-873.78754"
+                                   ry="0.096174292" />
+                                </g>
+                                </g>
+                              </g>
+                            </g>
                           </g>
                         </g>
-                        <ellipse
-                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                           id="path4226"
-                           cx="-159.48029"
-                           cy="-992.16797"
-                           rx="65.505089"
-                           ry="29.281801"
-                           transform="matrix(0.95890778,0.28371794,-0.26273999,0.96486667,0,0)" />
-                        <ellipse
-                           transform="matrix(0.0065052,0.99997884,-0.9995992,0.02830975,0,0)"
-                           ry="29.281801"
-                           rx="65.505089"
-                           cy="-134.9106"
-                           cx="-1014.7595"
-                           id="ellipse4228"
-                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
-                        <ellipse
-                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                           id="ellipse4230"
-                           cx="-495.42972"
-                           cy="895.04865"
-                           rx="65.505089"
-                           ry="29.281801"
-                           transform="matrix(-0.94108113,0.33818088,-0.3586222,-0.93348279,0,0)" />
-                        <ellipse
-                           transform="matrix(-0.63489849,-0.77259557,0.7585669,-0.65159516,0,0)"
-                           ry="29.281801"
-                           rx="65.505089"
-                           cy="726.00842"
-                           cx="646.51392"
-                           id="ellipse4232"
-                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
-                        <ellipse
-                           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                           id="ellipse4234"
-                           cx="830.61359"
-                           cy="-544.36902"
-                           rx="65.505089"
-                           ry="29.281801"
-                           transform="matrix(0.65245663,-0.75782606,0.77187369,0.63577591,0,0)" />
                       </g>
                     </g>
                   </g>
-                </g>
-                <g
-                   id="g4256"
-                   transform="translate(668.43665,-67.467144)"
-                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
-                   inkscape:export-xdpi="45"
-                   inkscape:export-ydpi="45">
-                  <rect
-                     style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                     id="rect4258"
-                     width="256"
-                     height="256"
-                     x="-584.21326"
-                     y="-873.78754"
-                     ry="0.096174292" />
                 </g>
               </g>
             </g>
@@ -478,6 +425,36 @@
   <style
      type="text/css"
      id="style4338">
+	.st0{fill:#4B4B4B;}
+</style>
+  <style
+     type="text/css"
+     id="style3382-5">
+	.st0{fill:#374149;}
+</style>
+  <style
+     type="text/css"
+     id="style3463-6">
+	.st0{fill:#374149;}
+</style>
+  <style
+     type="text/css"
+     id="style3606-2">
+	.st0{fill:#374149;}
+</style>
+  <style
+     type="text/css"
+     id="style3675-2">
+	.st0{fill:#374149;}
+</style>
+  <style
+     type="text/css"
+     id="style3757-2">
+	.st0{fill:#374149;}
+</style>
+  <style
+     id="style4338-0"
+     type="text/css">
 	.st0{fill:#4B4B4B;}
 </style>
 </svg>
