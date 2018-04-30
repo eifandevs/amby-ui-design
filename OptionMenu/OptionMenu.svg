@@ -25,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34441893"
-     inkscape:cx="1092.2713"
-     inkscape:cy="1095.3454"
+     inkscape:zoom="0.28730223"
+     inkscape:cx="623.36559"
+     inkscape:cy="1245.8915"
      inkscape:document-units="px"
-     inkscape:current-layer="g3820"
+     inkscape:current-layer="g4190"
      showgrid="false"
      inkscape:window-width="1330"
      inkscape:window-height="788"
@@ -114,7 +114,7 @@
            id="g3499">
           <g
              id="g3506"
-             transform="translate(92.910109,-31.93785)"
+             transform="translate(322.28194,-336.79915)"
              inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
              inkscape:export-xdpi="45"
              inkscape:export-ydpi="45">
@@ -239,7 +239,7 @@
              inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
              inkscape:export-xdpi="67.5"
              inkscape:export-ydpi="67.5"
-             transform="translate(142.26861,490.68151)">
+             transform="translate(1051.0456,458.74366)">
             <g
                inkscape:export-ydpi="67.500015"
                inkscape:export-xdpi="67.500015"
@@ -284,6 +284,55 @@
               </g>
             </g>
           </g>
+          <g
+             id="g4188"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-help/optionmenu-help@3x.png"
+             inkscape:export-xdpi="67.5"
+             inkscape:export-ydpi="67.5"
+             transform="translate(-375.14249,531.16002)">
+            <g
+               inkscape:export-ydpi="67.500015"
+               inkscape:export-xdpi="67.500015"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
+               id="g4190">
+              <g
+                 id="g4204"
+                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-app/optionmenu-app@3x.png"
+                 inkscape:export-xdpi="67.5"
+                 inkscape:export-ydpi="67.5">
+                <text
+                   transform="matrix(0.98328572,0,0,1.0169984,375.14249,-531.16003)"
+                   inkscape:export-ydpi="90"
+                   inkscape:export-xdpi="90"
+                   inkscape:export-filename="/Users/tenma/Desktop/a.png"
+                   sodipodi:linespacing="125%"
+                   id="text4184"
+                   y="-343.80743"
+                   x="-65.887215"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:217.72755432px;line-height:125%;font-family:Phosphate;-inkscape-font-specification:'Phosphate, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   xml:space="preserve"><tspan
+                     y="-343.80743"
+                     x="-65.887215"
+                     id="tspan4186"
+                     sodipodi:role="line">Q</tspan></text>
+                <g
+                   id="g4198"
+                   transform="translate(848.35156,-208.75981)"
+                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
+                   inkscape:export-xdpi="45"
+                   inkscape:export-ydpi="45">
+                  <rect
+                     style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+                     id="rect4200"
+                     width="256"
+                     height="256"
+                     x="-584.21326"
+                     y="-873.78754"
+                     ry="0.096174292" />
+                </g>
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>
@@ -312,5 +361,10 @@
      id="style3757"
      type="text/css">
 	.st0{fill:#374149;}
+</style>
+  <style
+     type="text/css"
+     id="style4338">
+	.st0{fill:#4B4B4B;}
 </style>
 </svg>
