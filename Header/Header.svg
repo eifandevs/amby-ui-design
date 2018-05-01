@@ -26,11 +26,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49202702"
-     inkscape:cx="1462.6789"
-     inkscape:cy="1454.4818"
+     inkscape:zoom="0.29021906"
+     inkscape:cx="592.96823"
+     inkscape:cy="1264.1015"
      inkscape:document-units="px"
-     inkscape:current-layer="g3697"
+     inkscape:current-layer="g3499"
      showgrid="false"
      inkscape:window-width="1330"
      inkscape:window-height="788"
@@ -84,101 +84,150 @@
              preserveAspectRatio="none"
              height="479.92056"
              width="446.01324" />
-          <image
-             y="-1656.1096"
-             x="-648.50653"
-             id="image3523"
-             xlink:href="data:image/png;base64,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 jw3oBQAAAABJRU5ErkJggg== "
-             preserveAspectRatio="none"
-             height="474.3576"
-             width="447.23178" />
-          <image
-             y="-1293.3016"
-             x="-746.83765"
-             id="image3585"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AABYlQAAWJUB2W030wAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAkkSURB VHic7Z1brFXFGcf/wykcEFRaoFHqBbQSL6FEWgXbSmJLtVSUpLWNLdFEazTa9JK0SU370JemvvTB mpJok0ZbgdaCEk2kWomxNwitrSgqYC8CAtYb99sBDr8+zCbd7J49a62915rZe5/vl+xw2GvWWv/1 zazZc/m+GckwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDKMrAS4FFgP3Aeel1mNEAjgf WMXJHAMeAcan1mdUCNAP/I3mLE+t0agQ4FuBzD/BvNQ6jQoARgFbchSANam1GhUA3J4j80/w6dR6 jRIBHLCpQAF4KrVmo0SAOQUyH2AQmJJadwxGpBYQidsKph8h6atVCDEiA4wHDhasAQC2A+9Lrb9q hkMNcKOkMS2cN1nSZ0vW0nEMhwKwMHBsMOPcm8oUYkQGmAIcD1TzjwHPB44fAk5P/RxV0us1wEJJ LnD8F5IeChwfLemGMgUZEQFeCbzd7+FHBycCA4F0v0/9HEYL4Kd7Q9xfl/bxQLrj9PCYQC//BHwl 4/iSur8fDqRzkr7cvhwjGsAI4I3AW70FcHXp+4FdgfSvpHyeKunVGmCOpLMCx5c65zjxH+fcgKRl gfQXA5eWJa6T6NUCkFX9Lx3iuyVDfFdPaDzB6BTwLft3i1bn+BnD1wPn7QD6Yj9P1fRiDfA5SRMC x4ds8NV+En4dOO9MSVe1ocuIAfCbwFsc7NIBFwfOBXgw4qMYRSF75u+POa7xQuD8vcCpMZ4lFr32 E3CTwjN/QzX+Ggk1Bk9VdgPTiA0wBjgHWB94e48AE3NcazI+TqAZLwIzgbOBU2I8X5WEJkoqBeiX NLH2mSBpkqTTJY2Vf4tPq/3dL2m8/MTMmFqafknjap+xtU8WK5xzn8+p7Un5xmReDkk6LGm/pKOS 9spPNe+q/bu3Ls1eSQck7az7vCVpk3Nuf4F7lkK0AgDMlrRA0sW1z1RJMbtV85xzuZw9geskPVGx nqHYJmlD7d5LnHO7qr5h5QUA33deIem6qu8VYLOk851zx/Mkrmn+t6RzqhSVwXpJVzrn9lR5kxiN wHuVNvMlaVHezJck59ygpJ9WqCcP0yU9CoxMrKN1gFsDjalYbAXytBEatZ8CbE6sHeD7VeTNCaqu AVJWoZJvlF3vnDtQ9ETn3EFJ8yVVWgXngOwkrVN1AdhR8fWbcUzSI/K/oetavYhz7mVJsyX9XL4F n4JKbVi133u74gckHZTvOg1I2iffhRqQtFs+Uw5KelfSO7XPVkkvO+d2t3lvSZJzbqOk24C7JE2T n2au776OlO+a9sl3V/vku7Cj9L8u7ei6704rKCHVS9Q+wPvxARZ5eByYBpxVO6/XRiklScBo4Imc Nnmebg9OAa4BjuZ84KVAK0EcXQFwBrAmpy3eAS5MrbkUgC8UKAQvAOem1lw2wAzy9yp2AR9LrblU gBsJj7HX8x/gk6k1lwXwJeBAgcy/LLXmSgAWAPtzGmIAuCO15nbAO6f+kHB0Uj1bgempdVcKvioM eew28gAwKrXuogDjgBUFnvMl4OzUuqMAnEt46raRPwFnpNadF+ACwlFJjTwJjEutOyr4N+SxAkba jp9R7GiAq4GdBZ7rAbq9q9cqeE/c7+KXZMnDYeDW1LqbgV+IKm9v5zBwS2rNHQG+m7ivwFtzLx3k oo13RX+ogP43gStS6+4ogOnAvwoY8Sk6wEET/1P22wK6e3KcoxSADwC/K2DMtcAHE+o9E1hXQO9i eniksxSAPuDHBYy6HggFglSlcwL5W/rHgO/E1tjV4EcO846eLU6g78Gc2vYA18fW1xPg3a/zrO97 HJgVUdcl5Ou5vApMi6WrFTp6ytU593dJl0n6c1ZSSTHnDmYq23bPSLrCOfdaBD0t09EFQJKcc29L mispay3/mI3BSRnHH5Z0bdUevWXQ8QVAkpxzh+WXaTkUSLYvkhzJB3OE+LZz7mgUJW3SFQWgxkUK x/1tjCVEUtaSMR+PoqIEuqkAZBk15kYP6+R9E5vRNb4M3VQAPhU4ttk5tz2WkFr1/pdAkrmxtLRL VxQAvINoaBeP1bG01BFaa2AGXTJ93RUFQNJHFV725dlYQupYFTjmJH0mlpB26JYCcHXG8WeiqDiZ NQpHDV0TS0jPAzwXGG3b0Oa1W46QJuzQ8jZdENvQ8QLxrlKhufPCbz8wD1gOvClpJ7ASuJniPgZP B45Nkh8xNNoBmJ8x3j6/wLU+zP9vG1vPeuATBa43JUNbpZG9wwLgJwEDD5DDmRIYCdxNvr2DBoH7 ybmPMOHt6P7QvgWGOcCGgIEz1/IHLgT+miPjG3kDyGp8Cr/7eDOOAEWDQY0T4ANFQzStYvEOp7eT PxBlKI7jvXab1jLAtRnXWFCNdYYBwC0Zxr28yXkfAp5uI+MbeY0mTpzAWLyHbzMWVWulHgb4VcCw Oxmi1Q7cQHix6FYZxLdH+oe457OB8zraH6BjwVfhbwUMu6wh/Xi802XRTC26qeQ6GuL38A3MEFPj Wq8HAD6SYdQ76tLOxQdWFuFFYBYwFT8OUITD+Ezvq91/Zkb6olvXGsDXMox6Hn4lr/vIH30LPnLn BzQsvwYspFhIF8Bq/KomI/Ajf834ZSo7di2Ef/9fB2YDGwtm2EYCsfe01ng8AHwDWBZIsyWm7XoC YFvAoLvJv9gE+BpiETkWd8a3Pe6iePfxUMbxKRHM1hvgw8fLYgdQeBNofIj36hJ1dOQy8506GXRJ SddZLml63kWi63HO/UPSlZK+J+lICVrKeqZS6dQC0O7qWLsl3eyc+6Jz7r1WL+KcG3TO3SPpckkv tanpojbPHz4AP2ujql1FBUut4EPAf0Sxtkc9Mb2Wuxvg0RYMfBD4Om04eOTU1krvA2Bblbp6CmBJ QeM+B1wQUd8Y4B7yrwYCsCmWvq4HuCqnUfcA3ySR6xV+tHJtTq13ptDYtRDe0n0QP+4f2h84ls4+ 4E58d7MZrzJcF4JqFfwQ61BGXQnMSK2vEfyw9N2cPBM5iF//LxTTkJRku4blBd+inyVpsqSVzrl/ JpYUpPamz5FfNn6tc25vYkmGYRiGYRiGYRiGYRiGYRiGYRiGYRiGYRiGYRiGYRiGYRiGYRhGL/Jf elGUFfgyYJoAAAAASUVORK5CYII= "
-             preserveAspectRatio="none"
-             height="477.74835"
-             width="501.48343" />
-          <image
-             y="-1015.1523"
-             x="-31.284306"
-             id="image3647"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AACISAAAiEgBZRG1BQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAS1SURB VHic7dxZrF1THMfxtVtDS2qqeqghtLQSMQ/Bg6GUVE0PxKwIDySGqBjTJ0MMNcaToSoqRe4TMVcN D4SglJAYWpSEtKqEW7fa+/Ww7+U49n/1nLOH/z73/D6P9+691u+/1lk596yz7wpBRERERERERERE REREREREREREREREREREREREREREREREREREaifxDtAM2DyEMD2EMD6EsDhJkhXOkXIBdg4hTAsh rAohLEqSZMA5Un0B2wMf8q+1wCneuToFnAr82VDPB8B471y1Bczl/34FJnhnaxcwYSh7szu9szUa 5R2gyYEZP9sqhDCn6iAFmBPS7M2yapQQQgAezFgxAOuAPbzztQqYBAwYtTzgna+2gKnAX8bAPe2d r1XAM0YN64G9vPPVGvCwMXiDwGHe+TYGOHgoa5aHvPPVHjAR+N0YwDe9820M8JqRvR/YyTtfVwBu MQYRYKZ3PgtwYiT3zd75ugYwDvjRGMjPgE28MzYDRgOfGJlXAlmfCMQCXBFZTRd652sGXBTJe7l3 vq4DbAp8aQzo98AW3hmHAWOA74ysy0i3t6VdwJmRVXW9d75hwA2RnGd45+taQAK8YwzsGmqwrw5s C6w2Mr4H1O4Lt64CHBlZXffUIN+9kXzHeOcbEYAXjAEeACY75tqV/37b1+h5r1wjDrA36TZqlgWO uZ40Mm0A9vPKNSIBjxmDPQhU/g0bsO/QRGeZV3WeEQ/YEfjDGPDXHfK8amRZC+xSdZ6eANxhDDrA cRXmOD6S4/aqcvQcYBtglTHwHwOlP+ACjCJ9tCvLamC7sjP0NGB2ZPWdV0H/50f6v7rs/nsesBnw tTEBK4CxJfY9BvjG6Hs52vKtBnBuZBXOLrHfayL9nlNWv9IEh/dh4n9/fEQFf39IA+DoyGos/NFr 4K5If9OL7k9aALxiTEihn8VJ9yD6jb5eLqofaRPx3bj5BfbzuNHHBuCAovqRDgALIpOzfwHt7xN5 kT1RRA2SA/Fv5F4soP2XjLYHgElF1CA5AXcbkwRwbI52j4q0O7fIGiQH0qdyfjYmagkdfEQjfRrp faPNX6jB00jSALguslrP6qC9syPtXVtGDZID6Tbtt8aELaeNbVrS7eavjLZq9USyNAAuiKzaK9to 56pIO7PKrEFyIN0iXmJM3Epg6xbaGAf8ZLSxFBhdRS3SIeCEyOq9tYX7b4vcP6OKGiQnYJExgf2k hzZZ903EfuzsjQpLkDyAg7D/R/+RyH2PGvcMAodWWYPkBDxlTGbmKR3Antinkyz0qEFyAHbD3iJ+ NuP654xr1wG7e9QgOQH3G5MKMK3huiMi193nWYPkQHrw5BpjYt8l3e5NgLeNa34DdvCuQ3IAboqs 7tOA0yO/v9E7v+QEjCV9WjjLMuxDKH4AtvTOLwUALomscsvF3rmlIKQHOH3axuR/Tg0PopIcgJPb eAGc5J1XSgAsbmHy3/LOKSUBDsHeIh52uHdOKRHQF5n8Pu98UjJgCtnHzawHpnjnkwoAlzW9FQwC l3rn8tCzZ9gBU0MIw0fOzkuS5AvPPCIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi IiL/+BuGSL/MPNxxoAAAAABJRU5ErkJggg== "
-             preserveAspectRatio="none"
-             height="718.27087"
-             width="633.50262" />
           <g
-             id="g3697"
-             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
+             inkscape:export-ydpi="33.75"
              inkscape:export-xdpi="33.75"
-             inkscape:export-ydpi="33.75">
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
+             id="g3731"
+             transform="translate(3.445673,110.26154)">
             <g
-               id="g3731"
+               inkscape:export-ydpi="33.75"
+               inkscape:export-xdpi="33.75"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
+               id="g3740">
+              <g
+                 id="g3368">
+                <path
+                   sodipodi:type="star"
+                   style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:22.18475533;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="path3675"
+                   sodipodi:sides="5"
+                   sodipodi:cx="710.32391"
+                   sodipodi:cy="-1306.2573"
+                   sodipodi:r1="136.32668"
+                   sodipodi:r2="69.526604"
+                   sodipodi:arg1="0.41643862"
+                   sodipodi:arg2="1.0447572"
+                   inkscape:flatsided="false"
+                   inkscape:rounded="0.15"
+                   inkscape:randomized="0"
+                   d="m 834.99948,-1251.1124 c -5.45498,12.333 -78.1031,-1.7894 -89.76543,4.9819 -11.66232,6.7712 -35.41418,76.8643 -48.82924,75.4874 -13.41506,-1.3769 -22.43335,-74.8334 -32.47705,-83.8325 -10.04369,-8.9991 -84.04591,-9.9285 -86.88189,-23.1125 -2.83598,-13.1839 64.23853,-44.4602 69.69351,-56.7932 5.45498,-12.333 -16.52905,-83.0004 -4.86672,-89.7717 11.66233,-6.7712 62.13494,47.3555 75.55,48.7324 13.41506,1.3769 73.8304,-41.3686 83.8741,-32.3695 10.04369,8.9991 -25.83703,73.7275 -23.00104,86.9115 2.83598,13.1839 62.15874,57.4332 56.70376,69.7662 z"
+                   inkscape:transform-center-x="-16.190576"
+                   inkscape:transform-center-y="-23.77077"
+                   transform="matrix(0.51701218,0.33155277,-0.30313245,0.56548489,-1.9537484,-616.78534)" />
+                <g
+                   id="g3678"
+                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@2x.png"
+                   inkscape:export-xdpi="45"
+                   inkscape:export-ydpi="45"
+                   transform="translate(682.88573,84.18044)">
+                  <g
+                     inkscape:export-ydpi="67.500015"
+                     inkscape:export-xdpi="67.500015"
+                     inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
+                     id="g3680">
+                    <g
+                       id="g3682"
+                       transform="translate(-11.613764,-249.69592)"
+                       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                       inkscape:export-xdpi="67.500015"
+                       inkscape:export-ydpi="67.500015">
+                      <g
+                         id="g3684"
+                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
+                         inkscape:export-xdpi="67.5"
+                         inkscape:export-ydpi="67.5">
+                        <g
+                           inkscape:export-ydpi="45"
+                           inkscape:export-xdpi="45"
+                           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
+                           transform="translate(546.3063,-208.75981)"
+                           id="g3693">
+                          <rect
+                             ry="0.096174292"
+                             y="-873.78754"
+                             x="-584.21326"
+                             height="256"
+                             width="256"
+                             id="rect3695"
+                             style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             transform="translate(-662.10762,-362.49556)"
+             id="g3377">
+            <g
+               id="g3379"
                inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
                inkscape:export-xdpi="33.75"
                inkscape:export-ydpi="33.75">
               <g
-                 id="g3740"
-                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
-                 inkscape:export-xdpi="33.75"
-                 inkscape:export-ydpi="33.75">
+                 id="g3381">
                 <g
-                   id="g3368">
+                   inkscape:export-ydpi="33.75"
+                   inkscape:export-xdpi="33.75"
+                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite-selected/header-favorite-selected@3x.png"
+                   id="g3397">
                   <path
-                     transform="matrix(0.51701218,0.33155277,-0.30313245,0.56548489,-1.9537484,-616.78534)"
-                     inkscape:transform-center-y="-23.77077"
-                     inkscape:transform-center-x="-16.190576"
-                     d="m 834.99948,-1251.1124 c -5.45498,12.333 -78.1031,-1.7894 -89.76543,4.9819 -11.66232,6.7712 -35.41418,76.8643 -48.82924,75.4874 -13.41506,-1.3769 -22.43335,-74.8334 -32.47705,-83.8325 -10.04369,-8.9991 -84.04591,-9.9285 -86.88189,-23.1125 -2.83598,-13.1839 64.23853,-44.4602 69.69351,-56.7932 5.45498,-12.333 -16.52905,-83.0004 -4.86672,-89.7717 11.66233,-6.7712 62.13494,47.3555 75.55,48.7324 13.41506,1.3769 73.8304,-41.3686 83.8741,-32.3695 10.04369,8.9991 -25.83703,73.7275 -23.00104,86.9115 2.83598,13.1839 62.15874,57.4332 56.70376,69.7662 z"
-                     inkscape:randomized="0"
-                     inkscape:rounded="0.15"
-                     inkscape:flatsided="false"
-                     sodipodi:arg2="1.0447572"
-                     sodipodi:arg1="0.41643862"
-                     sodipodi:r2="69.526604"
-                     sodipodi:r1="136.32668"
-                     sodipodi:cy="-1306.2573"
-                     sodipodi:cx="710.32391"
+                     sodipodi:type="star"
+                     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:22.18475533;stroke-miterlimit:4;stroke-dasharray:none"
+                     id="path3383"
                      sodipodi:sides="5"
-                     id="path3675"
-                     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:22.18475533;stroke-miterlimit:4;stroke-dasharray:none"
-                     sodipodi:type="star" />
+                     sodipodi:cx="710.32391"
+                     sodipodi:cy="-1306.2573"
+                     sodipodi:r1="136.32668"
+                     sodipodi:r2="69.526604"
+                     sodipodi:arg1="0.41643862"
+                     sodipodi:arg2="1.0447572"
+                     inkscape:flatsided="false"
+                     inkscape:rounded="0.15"
+                     inkscape:randomized="0"
+                     d="m 834.99948,-1251.1124 c -5.45498,12.333 -78.1031,-1.7894 -89.76543,4.9819 -11.66232,6.7712 -35.41418,76.8643 -48.82924,75.4874 -13.41506,-1.3769 -22.43335,-74.8334 -32.47705,-83.8325 -10.04369,-8.9991 -84.04591,-9.9285 -86.88189,-23.1125 -2.83598,-13.1839 64.23853,-44.4602 69.69351,-56.7932 5.45498,-12.333 -16.52905,-83.0004 -4.86672,-89.7717 11.66233,-6.7712 62.13494,47.3555 75.55,48.7324 13.41506,1.3769 73.8304,-41.3686 83.8741,-32.3695 10.04369,8.9991 -25.83703,73.7275 -23.00104,86.9115 2.83598,13.1839 62.15874,57.4332 56.70376,69.7662 z"
+                     inkscape:transform-center-x="-16.190576"
+                     inkscape:transform-center-y="-23.77077"
+                     transform="matrix(0.51701218,0.33155277,-0.30313245,0.56548489,-1.9537484,-616.78534)" />
                   <g
-                     transform="translate(682.88573,84.18044)"
-                     inkscape:export-ydpi="45"
-                     inkscape:export-xdpi="45"
+                     id="g3385"
                      inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@2x.png"
-                     id="g3678">
+                     inkscape:export-xdpi="45"
+                     inkscape:export-ydpi="45"
+                     transform="translate(682.88573,84.18044)">
                     <g
-                       id="g3680"
-                       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
+                       inkscape:export-ydpi="67.500015"
                        inkscape:export-xdpi="67.500015"
-                       inkscape:export-ydpi="67.500015">
+                       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
+                       id="g3387">
                       <g
-                         inkscape:export-ydpi="67.500015"
-                         inkscape:export-xdpi="67.500015"
-                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                         id="g3389"
                          transform="translate(-11.613764,-249.69592)"
-                         id="g3682">
+                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+                         inkscape:export-xdpi="67.500015"
+                         inkscape:export-ydpi="67.500015">
                         <g
-                           inkscape:export-ydpi="67.5"
-                           inkscape:export-xdpi="67.5"
+                           id="g3391"
                            inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
-                           id="g3684">
+                           inkscape:export-xdpi="67.5"
+                           inkscape:export-ydpi="67.5">
                           <g
-                             id="g3693"
-                             transform="translate(546.3063,-208.75981)"
-                             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
+                             inkscape:export-ydpi="45"
                              inkscape:export-xdpi="45"
-                             inkscape:export-ydpi="45">
+                             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
+                             transform="translate(546.3063,-208.75981)"
+                             id="g3393">
                             <rect
-                               style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                               id="rect3695"
-                               width="256"
-                               height="256"
-                               x="-584.21326"
+                               ry="0.096174292"
                                y="-873.78754"
-                               ry="0.096174292" />
+                               x="-584.21326"
+                               height="256"
+                               width="256"
+                               id="rect3395"
+                               style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
                           </g>
                         </g>
                       </g>
@@ -187,83 +236,47 @@
                 </g>
               </g>
             </g>
+          </g>
+          <g
+             id="g3582"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
+             inkscape:export-xdpi="33.75"
+             inkscape:export-ydpi="33.75">
             <g
-               id="g3377"
-               transform="translate(-48.777809,-479.64845)">
+               id="g3588"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
+               inkscape:export-xdpi="33.75"
+               inkscape:export-ydpi="33.75">
               <g
-                 inkscape:export-ydpi="33.75"
-                 inkscape:export-xdpi="33.75"
-                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
-                 id="g3379">
-                <g
-                   id="g3381">
-                  <g
-                     id="g3397"
-                     inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite-selected/header-favorite-selected@3x.png"
-                     inkscape:export-xdpi="33.75"
-                     inkscape:export-ydpi="33.75">
-                    <path
-                       transform="matrix(0.51701218,0.33155277,-0.30313245,0.56548489,-1.9537484,-616.78534)"
-                       inkscape:transform-center-y="-23.77077"
-                       inkscape:transform-center-x="-16.190576"
-                       d="m 834.99948,-1251.1124 c -5.45498,12.333 -78.1031,-1.7894 -89.76543,4.9819 -11.66232,6.7712 -35.41418,76.8643 -48.82924,75.4874 -13.41506,-1.3769 -22.43335,-74.8334 -32.47705,-83.8325 -10.04369,-8.9991 -84.04591,-9.9285 -86.88189,-23.1125 -2.83598,-13.1839 64.23853,-44.4602 69.69351,-56.7932 5.45498,-12.333 -16.52905,-83.0004 -4.86672,-89.7717 11.66233,-6.7712 62.13494,47.3555 75.55,48.7324 13.41506,1.3769 73.8304,-41.3686 83.8741,-32.3695 10.04369,8.9991 -25.83703,73.7275 -23.00104,86.9115 2.83598,13.1839 62.15874,57.4332 56.70376,69.7662 z"
-                       inkscape:randomized="0"
-                       inkscape:rounded="0.15"
-                       inkscape:flatsided="false"
-                       sodipodi:arg2="1.0447572"
-                       sodipodi:arg1="0.41643862"
-                       sodipodi:r2="69.526604"
-                       sodipodi:r1="136.32668"
-                       sodipodi:cy="-1306.2573"
-                       sodipodi:cx="710.32391"
-                       sodipodi:sides="5"
-                       id="path3383"
-                       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:22.18475533;stroke-miterlimit:4;stroke-dasharray:none"
-                       sodipodi:type="star" />
-                    <g
-                       transform="translate(682.88573,84.18044)"
-                       inkscape:export-ydpi="45"
-                       inkscape:export-xdpi="45"
-                       inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@2x.png"
-                       id="g3385">
-                      <g
-                         id="g3387"
-                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-setting/optionmenu-setting@3x.png"
-                         inkscape:export-xdpi="67.500015"
-                         inkscape:export-ydpi="67.500015">
-                        <g
-                           inkscape:export-ydpi="67.500015"
-                           inkscape:export-xdpi="67.500015"
-                           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
-                           transform="translate(-11.613764,-249.69592)"
-                           id="g3389">
-                          <g
-                             inkscape:export-ydpi="67.5"
-                             inkscape:export-xdpi="67.5"
-                             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite/header-favorite@3x.png"
-                             id="g3391">
-                            <g
-                               id="g3393"
-                               transform="translate(546.3063,-208.75981)"
-                               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-form/optionmenu-form@2x.png"
-                               inkscape:export-xdpi="45"
-                               inkscape:export-ydpi="45">
-                              <rect
-                                 style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-                                 id="rect3395"
-                                 width="256"
-                                 height="256"
-                                 x="-584.21326"
-                                 y="-873.78754"
-                                 ry="0.096174292" />
-                            </g>
-                          </g>
-                        </g>
-                      </g>
-                    </g>
-                  </g>
-                </g>
+                 id="g3507"
+                 transform="translate(-251.41764,63.598686)">
+                <rect
+                   transform="matrix(0.40186085,0.91570075,-0.91570075,0.40186085,0,0)"
+                   ry="6.891346"
+                   y="-266.32681"
+                   x="-1141.7305"
+                   height="13.782692"
+                   width="122.3214"
+                   id="rect3423"
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none" />
+                <rect
+                   style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect3505"
+                   width="122.3214"
+                   height="13.782692"
+                   x="-1001.6606"
+                   y="-585.49719"
+                   ry="6.891346"
+                   transform="matrix(-0.40186085,0.91570075,0.91570075,0.40186085,0,0)" />
               </g>
+              <rect
+                 ry="0.096174292"
+                 y="-1146.1368"
+                 x="-553.69421"
+                 height="256"
+                 width="256"
+                 id="rect3531"
+                 style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
             </g>
           </g>
         </g>
