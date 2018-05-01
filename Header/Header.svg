@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
@@ -26,9 +25,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29021906"
-     inkscape:cx="592.96823"
-     inkscape:cy="1264.1015"
+     inkscape:zoom="0.41043173"
+     inkscape:cx="610.03335"
+     inkscape:cy="2108.0574"
      inkscape:document-units="px"
      inkscape:current-layer="g3499"
      showgrid="false"
@@ -76,14 +75,6 @@
          transform="translate(-165.49613,551.65377)">
         <g
            id="g3499">
-          <image
-             y="-2045.434"
-             x="-685.19519"
-             id="image3445"
-             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AACTowAAk6MB0bLwxgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAALxSURB VHic7d2xaxRRFMXhM4kRIQFDEIWItjaWBsRGGzWIgmijoH+EhWCvoiASW2uxFbQKNkkh2Cgi2Jje gARjiqiBmByLnWJ9ZnTXnclk5v6+7u3uvHs37+zOm92FSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAB2rqzuBraT7QlJ05KOSpqUdCC/67OkT5I+SJrNsuxrPR2idLaHbF+1PWd73f+2nj/2iu2huvvH AGyfs/2+h0Uv8s72dN3PA32yPWz7/gALn3pse1fdz6sKrdsD2B6T9EzS6YKHrEmal7Sgzrlf6uwF jkg6KWlPwXEvJV3Osmy1tGZRrvyV/6LgVfzR9jXbo385ftT2ddsLBXM8N/uCncv2wy0W7aftm/28 hdsesX0rPzb1oMrngP9k+4TtzWSxVm0XnQp6mfNMPke3TdvHy+wdJbD9KlmoDdsXS5j3Uj5Xt9e2 W7d/aizbF6p8qy44tZwva34MyPbTZHGWbO8tcf7xfM5uT8qaHwOwvdv2SrI4dyuocy+psWx7pOw6 6JM7m7/UsQrqTG1Rp/GbwTZc0x5Kxt8kva2gzhtJP5LbDldQZ1u1IQAHk/FilmUuu0g+52Jy82TZ dbZbGwKwLxl/qbDWUjLeX2GtbdGGAKTX45sV1krnbvxnAW0IAAZAAIIjAMERgOAIQHAEIDgCEFxj rmPd+SnXjKRTkoa77pqQNN41XtOfn9iVZVK//2ZwRdJy13hD0pykG1mWfa+oh5hs39niy5id6nbd f69eNekUUPo3fBWaqruBXjUpAPRagcY0imoQgOAIQHAEIDgCEBwBCI4ABEcAgiMAwRGA4AhAcAQg OAIQHAEIjgAERwCCIwDBEYDgCEBwBCA4AhAcAQiOAARHAIIjAMERgOAIQHAEIDgCEFyTArBedwN9 aEyvTQrAfN0N9GGu7gZ61aT/hTejTr9nJY3V3EuRVUmzkh7V3QgAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAACANvgFTSFUkjBqqbkAAAAASUVORK5CYII= "
-             preserveAspectRatio="none"
-             height="479.92056"
-             width="446.01324" />
           <g
              inkscape:export-ydpi="33.75"
              inkscape:export-xdpi="33.75"
@@ -241,7 +232,8 @@
              id="g3582"
              inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
              inkscape:export-xdpi="33.75"
-             inkscape:export-ydpi="33.75">
+             inkscape:export-ydpi="33.75"
+             transform="translate(-92.585433,-363.03236)">
             <g
                id="g3588"
                inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
@@ -279,6 +271,60 @@
                  style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
             </g>
           </g>
+          <g
+             id="g3685"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-key/header-key@3x.png"
+             inkscape:export-xdpi="33.749996"
+             inkscape:export-ydpi="33.749996">
+            <g
+               transform="matrix(0.24646676,0,0,0.24510492,-414.27731,-1000.8775)"
+               id="g3667"
+               style="opacity:1;fill:#ffffff">
+              <g
+                 style="fill:#ffffff"
+                 id="g3652">
+                <path
+                   inkscape:connector-curvature="0"
+                   class="st0"
+                   d="m 491.828,359.667 -27.328,-27.326 -9.822,-9.823 -13.658,-2.53 -8.762,-1.62 -1.621,-8.758 -5.6,-30.234 -28.559,-5.292 0.711,-6.768 2.233,-21.221 -15.088,-15.088 -20.278,-20.278 -1.936,-1.933 C 371.89,152.034 353.887,94.086 312.145,52.343 242.353,-17.445 128.795,-17.449 59.007,52.336 -10.778,122.12 -10.77,235.67 59.022,305.462 c 41.746,41.746 99.69,59.745 156.449,49.978 l 1.936,1.937 138.355,138.354 16.269,16.269 22.693,-3.778 71.512,-11.889 36.579,-6.087 0.795,-37.07 1.305,-60.927 0.411,-19.083 -13.498,-13.499 z M 458.896,452.218 387.385,464.107 249.03,325.755 229.19,305.915 C 182.224,321.996 128.119,311.309 90.645,273.84 38.212,221.408 38.193,136.398 90.626,83.966 c 0.004,-0.004 0,0 0.004,-0.004 52.451,-52.447 137.457,-52.428 189.893,0.004 37.47,37.474 48.157,91.576 32.068,138.546 l 19.84,19.84 20.281,20.278 -5.045,47.898 38.995,7.224 7.221,38.991 38.992,7.221 27.327,27.327 -1.306,60.927 z"
+                   style="fill:#ffffff"
+                   id="path3654" />
+                <path
+                   inkscape:connector-curvature="0"
+                   class="st0"
+                   d="m 287.329,305.915 c -5.136,4.284 -10.534,8.066 -16.104,11.466 -0.62,0.358 -1.222,0.806 -1.846,1.149 l 0.023,0.023 c -0.046,0.026 -0.087,0.061 -0.133,0.087 l 124.723,124.72 16.587,-2.746 9.713,-1.518 -0.08,-0.08 0.186,-0.03 -133.069,-133.071 z"
+                   style="fill:#ffffff"
+                   id="path3656" />
+                <path
+                   inkscape:connector-curvature="0"
+                   class="st0"
+                   d="m 168.993,101.732 -60.582,60.582 c -1.426,11.258 1.849,22.583 9.945,30.679 8.13,8.13 19.422,11.367 30.754,9.937 l 60.502,-60.498 c 1.43,-11.334 -1.806,-22.625 -9.937,-30.755 -8.095,-8.095 -19.425,-11.371 -30.682,-9.945 z"
+                   style="fill:#ffffff"
+                   id="path3658" />
+              </g>
+            </g>
+            <g
+               id="g3673"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
+               inkscape:export-xdpi="33.75"
+               inkscape:export-ydpi="33.75"
+               transform="translate(74.512287,80.006118)">
+              <g
+                 id="g3675"
+                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-close/header-close@3x.png"
+                 inkscape:export-xdpi="33.75"
+                 inkscape:export-ydpi="33.75">
+                <rect
+                   ry="0.096174292"
+                   y="-1146.1368"
+                   x="-553.69421"
+                   height="256"
+                   width="256"
+                   id="rect3683"
+                   style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>
@@ -312,5 +358,10 @@
      type="text/css"
      id="style4338">
 	.st0{fill:#4B4B4B;}
+</style>
+  <style
+     id="style3650"
+     type="text/css">
+	.st0{fill:#374149;}
 </style>
 </svg>
