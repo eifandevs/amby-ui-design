@@ -25,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.58681577"
-     inkscape:cx="1487.1385"
-     inkscape:cy="1299.5947"
+     inkscape:zoom="0.58320903"
+     inkscape:cx="1549.0014"
+     inkscape:cy="845.4034"
      inkscape:document-units="px"
-     inkscape:current-layer="g3635"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="791"
@@ -819,7 +819,7 @@
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-home/circlemenu-home@2x.png"
-         transform="translate(29.826682,-8.2073784)"
+         transform="translate(115.20425,69.038993)"
          id="g3515">
         <g
            id="g3517"
@@ -1090,6 +1090,99 @@
               </g>
             </g>
           </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3503"
+       transform="translate(1350.3808,187.9135)"
+       inkscape:export-filename="/Users/tenma/dev/projects/qass-ui-design/CircleMenu/circlemenu-close-all/circlemenu-close-all@3x.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135">
+      <g
+         id="g4342"
+         transform="translate(218.48573,-277.41938)"
+         inkscape:export-filename="/Users/tenma/dev/projects/qass-ui-design/CircleMenu/circlemenu-close-all/circlemenu-close-all@3x"
+         inkscape:export-xdpi="137.8125"
+         inkscape:export-ydpi="137.8125">
+        <g
+           inkscape:export-ydpi="90.000008"
+           inkscape:export-xdpi="90.000008"
+           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-add/circlemenu-add@2x.png"
+           id="g3518"
+           transform="translate(-22.857143,365.20844)">
+          <g
+             inkscape:export-ydpi="135.00002"
+             inkscape:export-xdpi="135.00002"
+             id="g3520"
+             transform="translate(-4.545686,264.54248)">
+            <g
+               id="g3522">
+              <g
+                 id="g3524">
+                <rect
+                   style="opacity:0;fill:#782121"
+                   id="rect3526"
+                   width="128"
+                   height="128"
+                   x="74.285713"
+                   y="-455.63788"
+                   ry="0" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(0.92442907,0,0,0.92450555,7.4811778,18.663749)"
+           id="g4332">
+          <g
+             transform="matrix(0.702589,0.70388558,-0.702589,0.70388558,50.046645,-16.233255)"
+             id="g3505"
+             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-add/circlemenu-add@2x.png"
+             inkscape:export-xdpi="90.000008"
+             inkscape:export-ydpi="90.000008">
+            <g
+               transform="translate(-17.601892,252.16685)"
+               id="g3507">
+              <g
+                 transform="translate(88.571428,112.85714)"
+                 id="g3509">
+                <rect
+                   ry="3.6014173"
+                   y="-262.93372"
+                   x="149.58159"
+                   height="74.429291"
+                   width="7.0561996"
+                   id="rect3511"
+                   style="opacity:1;fill:#ffffff" />
+                <rect
+                   style="opacity:1;fill:#ffffff"
+                   id="rect3513"
+                   width="7.561276"
+                   height="80.021019"
+                   x="149.58159"
+                   y="-268.52545"
+                   ry="3.871985" />
+                <rect
+                   ry="3.871985"
+                   y="113.35172"
+                   x="224.7343"
+                   height="80.021019"
+                   width="7.561276"
+                   id="rect3515"
+                   style="opacity:1;fill:#ffffff"
+                   transform="matrix(0,-1,1,0,0,0)" />
+              </g>
+            </g>
+          </g>
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect3528"
+             width="73.13121"
+             height="73.13121"
+             x="75.289062"
+             y="200.80376"
+             ry="0.072081886" />
         </g>
       </g>
     </g>
