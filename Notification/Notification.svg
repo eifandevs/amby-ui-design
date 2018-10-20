@@ -25,11 +25,11 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28559126"
+     inkscape:zoom="0.19872334"
      inkscape:cx="114.8405"
      inkscape:cy="907.00306"
      inkscape:document-units="px"
-     inkscape:current-layer="g3499"
+     inkscape:current-layer="g4213"
      showgrid="false"
      inkscape:window-width="1330"
      inkscape:window-height="788"
@@ -76,67 +76,80 @@
         <g
            id="g3499">
           <g
-             transform="translate(1972.3225,798.56052)"
-             id="layer1-1"
-             inkscape:label="Layer 1"
-             inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
-             inkscape:export-xdpi="20.478689"
-             inkscape:export-ydpi="20.478689"
-             style="fill:#ffffff">
+             id="g4170"
+             transform="translate(-23.745324,284.94389)"
+             inkscape:export-xdpi="12.342857"
+             inkscape:export-ydpi="12.342857">
+            <rect
+               y="-1762.2076"
+               x="-681.25854"
+               height="700"
+               width="700"
+               id="rect3368"
+               style="opacity:0;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:6.21298027;stroke-miterlimit:4;stroke-dasharray:none" />
             <g
-               id="g3445-9"
-               transform="translate(905.72448,298.8709)"
-               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
-               inkscape:export-xdpi="90.000008"
-               inkscape:export-ydpi="90.000008"
-               style="fill:#ffffff">
+               style="fill:#ffffff"
+               inkscape:export-ydpi="20.478689"
+               inkscape:export-xdpi="20.478689"
+               inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-favorite/optionmenu-favorite@3x.png"
+               inkscape:label="Layer 1"
+               id="layer1-1"
+               transform="translate(1674.4583,277.78518)">
               <g
-                 transform="matrix(0,0.26936912,-0.24757893,0,88.48107,232.98596)"
-                 id="g3447-1"
-                 style="fill:#ffffff">
+                 style="fill:#ffffff"
+                 inkscape:export-ydpi="90.000008"
+                 inkscape:export-xdpi="90.000008"
+                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/CircleMenu/circlemenu-autoscroll/circlemenu-autoscroll@2x.png"
+                 transform="translate(905.72448,298.8709)"
+                 id="g3445-9">
                 <g
-                   id="g3449-2"
-                   style="fill:#ffffff" />
-              </g>
-              <g
-                 transform="translate(-165.49613,551.65377)"
-                 id="g3483-6"
-                 inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-history/optionmenu-history@3x.png"
-                 inkscape:export-xdpi="67.5"
-                 inkscape:export-ydpi="67.5"
-                 style="fill:#ffffff">
-                <g
-                   id="g3499-0"
-                   style="fill:#ffffff">
+                   style="fill:#ffffff"
+                   id="g3447-1"
+                   transform="matrix(0,0.26936912,-0.24757893,0,88.48107,232.98596)">
                   <g
-                     transform="translate(-2790.8147,-1299.503)"
-                     id="g3706"
-                     style="fill:#ffffff">
+                     style="fill:#ffffff"
+                     id="g3449-2" />
+                </g>
+                <g
+                   style="fill:#ffffff"
+                   inkscape:export-ydpi="67.5"
+                   inkscape:export-xdpi="67.5"
+                   inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/OptionMenu/optionmenu-history/optionmenu-history@3x.png"
+                   id="g3483-6"
+                   transform="translate(-165.49613,551.65377)">
+                  <g
+                     style="fill:#ffffff"
+                     id="g3499-0">
                     <g
-                       id="g3722"
-                       style="fill:#ffffff">
+                       style="fill:#ffffff"
+                       id="g3706"
+                       transform="translate(-2790.8147,-1299.503)">
                       <g
-                         inkscape:export-ydpi="33.750008"
-                         inkscape:export-xdpi="33.750008"
-                         inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite-selected/header-favorite-selected@3x.png"
-                         id="g3749"
-                         style="fill:#ffffff">
+                         style="fill:#ffffff"
+                         id="g3722">
                         <g
-                           inkscape:export-ydpi="67.496468"
-                           inkscape:export-xdpi="67.496468"
-                           inkscape:export-filename="/Users/tenma/dev/projects/qass-ui-design/OptionMenu/optionmenu-menu-order/optionmenu-menu-order-one@3x.png"
-                           transform="matrix(0.49829462,0,0,0.49890517,61.695399,-693.58336)"
-                           id="g4261"
-                           style="fill:#ffffff">
+                           style="fill:#ffffff"
+                           id="g3749"
+                           inkscape:export-filename="/Users/tenma/dev/projects/qas-ui-design/Header/header-favorite-selected/header-favorite-selected@3x.png"
+                           inkscape:export-xdpi="33.750008"
+                           inkscape:export-ydpi="33.750008">
                           <g
-                             id="g3512"
-                             transform="matrix(2.0068449,0,0,2.0043889,-637.92566,-1510.5288)"
-                             style="fill:#ffffff">
-                            <polygon
-                               id="polygon3536"
-                               points="492.988,47.957 492.977,47.965 492.938,47.894 227.484,265.687 151.332,190.832 96.422,242.285 90.149,248.152 90.156,248.156 90.098,248.211 227.554,364.465 512,80.914 495.629,52.558 "
-                               class="st0"
-                               style="fill:#ffffff" />
+                             style="fill:#ffffff"
+                             id="g4261"
+                             transform="matrix(0.49829462,0,0,0.49890517,61.695399,-693.58336)"
+                             inkscape:export-filename="/Users/tenma/dev/projects/qass-ui-design/OptionMenu/optionmenu-menu-order/optionmenu-menu-order-one@3x.png"
+                             inkscape:export-xdpi="67.496468"
+                             inkscape:export-ydpi="67.496468">
+                            <g
+                               style="fill:#ffffff"
+                               transform="matrix(2.0068449,0,0,2.0043889,-637.92566,-1510.5288)"
+                               id="g3512">
+                              <polygon
+                                 style="fill:#ffffff"
+                                 class="st0"
+                                 points="512,80.914 495.629,52.558 492.988,47.957 492.977,47.965 492.938,47.894 227.484,265.687 151.332,190.832 96.422,242.285 90.149,248.152 90.156,248.156 90.098,248.211 227.554,364.465 "
+                                 id="polygon3536" />
+                            </g>
                           </g>
                         </g>
                       </g>
@@ -147,26 +160,45 @@
             </g>
           </g>
           <g
-             style="opacity:1;fill:#ffffff"
-             id="g3608"
-             transform="translate(264.31461,-1143.1314)"
-             inkscape:export-xdpi="16.875"
-             inkscape:export-ydpi="16.875">
+             id="g4213"
+             inkscape:export-xdpi="12.342856"
+             inkscape:export-ydpi="12.342856">
             <g
-               id="g3595"
-               style="fill:#ffffff">
-              <path
-                 id="path3597"
-                 style="fill:#ffffff"
-                 d="M 284.274,349.59 311.325,12.137 C 311.852,5.574 307.919,0 302.724,0 l -93.446,0 c -5.203,0 -9.137,5.586 -8.602,12.156 l 27.449,337.434 56.149,0 z"
-                 class="st0"
-                 inkscape:connector-curvature="0" />
-              <path
-                 id="path3599"
-                 style="fill:#ffffff"
-                 d="m 293.786,423.328 -75.586,0 c -3.613,0 -6.542,2.93 -6.542,6.547 l 0,75.582 c 0,3.614 2.93,6.543 6.542,6.543 l 75.586,0 c 3.613,0 6.542,-2.93 6.542,-6.543 l 0,-75.582 c 0,-3.617 -2.929,-6.547 -6.542,-6.547 z"
-                 class="st0"
-                 inkscape:connector-curvature="0" />
+               id="g3428"
+               inkscape:export-xdpi="12.342858"
+               inkscape:export-ydpi="12.342858">
+              <g
+                 transform="translate(894.51265,486.77914)"
+                 id="g4185">
+                <rect
+                   style="opacity:0;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:6.21298027;stroke-miterlimit:4;stroke-dasharray:none"
+                   id="rect4187"
+                   width="700"
+                   height="700"
+                   x="-681.25854"
+                   y="-1762.2076" />
+              </g>
+              <g
+                 transform="matrix(0.82717879,0,0,0.81326038,351.49634,-1133.6223)"
+                 id="g3423"
+                 style="opacity:1;fill:#ffffff">
+                <g
+                   style="fill:#ffffff"
+                   id="g3410">
+                  <path
+                     inkscape:connector-curvature="0"
+                     class="st0"
+                     d="M 298.752,19.904 C 288.435,6.634 274.169,0 256,0 c -18.191,0 -32.434,6.634 -42.759,19.904 -10.318,13.269 -15.476,32.191 -15.476,56.759 0,5.414 1.346,17.69 4.055,36.856 2.694,19.166 6.749,43.745 12.158,73.715 4.908,26.534 9.092,51.852 12.531,75.926 3.432,24.084 6.878,48.903 10.325,74.453 0.479,4.915 2.579,9.339 6.262,13.266 3.69,3.941 7.746,6.266 12.166,7.003 4.421,0.738 8.59,-0.483 12.531,-3.686 3.926,-3.191 6.634,-9.214 8.11,-18.058 3.432,-27.516 6.635,-52.578 9.579,-75.187 2.952,-22.598 6.878,-47.181 11.794,-73.715 5.402,-30.959 9.586,-55.77 12.531,-74.454 2.952,-18.667 4.428,-30.704 4.428,-36.118 10e-4,-24.569 -5.166,-43.491 -15.483,-56.76 z"
+                     style="fill:#ffffff"
+                     id="path3412" />
+                  <path
+                     inkscape:connector-curvature="0"
+                     class="st0"
+                     d="m 256.053,415.638 c -13.535,0 -24.834,4.656 -33.922,13.946 -9.089,9.301 -13.63,20.71 -13.63,34.234 0,13.532 4.443,24.941 13.314,34.23 8.875,9.302 20.071,13.95 33.603,13.95 13.517,0 25.039,-4.854 34.546,-14.582 9.51,-9.72 14.266,-20.92 14.266,-33.599 0,-13.524 -4.66,-24.934 -13.95,-34.234 -9.297,-9.289 -20.71,-13.945 -34.227,-13.945 z"
+                     style="fill:#ffffff"
+                     id="path3414" />
+                </g>
+              </g>
             </g>
           </g>
         </g>
@@ -240,6 +272,11 @@
 </style>
   <style
      id="style3593"
+     type="text/css">
+	.st0{fill:#374149;}
+</style>
+  <style
+     id="style3408"
      type="text/css">
 	.st0{fill:#374149;}
 </style>
